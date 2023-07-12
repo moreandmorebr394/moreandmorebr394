@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moreandmorebr394
 - 👀 I’m interested in everything about internet, programming and books
-- 🌱 I’m currently learning HTML, CSS and Java Script
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brunadepaulabl@gmail.com
 
