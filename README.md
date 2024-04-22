@@ -5,13 +5,10 @@ Atualmente faço duas faculdades, Análise e Desenvolvimento de Sistemas e Ciên
 
 [Acesse meu Linkedin](https://www.linkedin.com/in/bruna-alves-de-paula-25b198210/)
 
+##Minhas Tecnologias
 ---------
 
-##Minhas Tecnologias
 
-#Python
-#Go
-#CSS
 
           
 
