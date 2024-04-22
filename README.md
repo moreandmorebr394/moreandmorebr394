@@ -7,6 +7,8 @@ Atualmente faço duas faculdades, Análise e Desenvolvimento de Sistemas e Ciên
           
 ---------
 ### Minhas Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width:"100pix"/>
+          
 
 <!---
 moreandmorebr394/moreandmorebr394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
