@@ -5,8 +5,8 @@
 
 
 <img src="assets\Typing-amico.png" alt="Typing amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Typing-bro.png" alt="Typing bro" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Typing-cuate.png" alt="Typing cuate" min-width="200px" max-width="200px" width="230px" >
+<img src="assets\Typing-bro.png" alt="Typing bro" min-width="200px" max-width="200px" width="230px" >
+<img src="assets\Typing-cuate.png" alt="Typing cuate" min-width="200px" max-width="200px" width="230px" >
 </div>
 
 
