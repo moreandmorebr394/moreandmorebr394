@@ -14,11 +14,11 @@
 
 # 🦦 Sobre mim
 
-👾 Olá, eu sou Bruna Alves, estudante do 5° Semestre em Análise e Desenvolvimento de Sistemas e no 4° Semestre em Ciência da Computação.
+👾 Olá, eu sou Bruna Alves, estudante do 5° Semestre em Análise e Desenvolvimento de Sistemas e no 5° Semestre em Ciência da Computação.
 
 🌱 Estou constantemente aprendendo novas tecnologias e sempre em busca de conhecer mais e evoluir meus conhecimentos e desenvolver sempre minhas aptidões e habilidades.
 
-💼 Estou aberta a oportunidades e formas de colaborar.
+💼 Faço Estágio na Cosanpa como Desenvolvedora Front-End.
 
 🚀 Compartilhando meu github e projetos.
 
@@ -52,6 +52,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
